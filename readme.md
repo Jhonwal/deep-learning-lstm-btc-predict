@@ -60,35 +60,35 @@ The project is divided into two main components:
 ### Backend Setup
 
 1. Navigate to the `backend` folder:
-   ```
-   cd backend
-   ```
-2. Create a virtual environment (optional but recommended):
+```bash
+cd backend
 ```
+2. Create a virtual environment (optional but recommended):
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 3. Install required Python packages:
-```
+```bash
 pip install -r requirements.txt
 ```
 4. Run the backend server:
-```
+```bash
 python app.py
 ```
 
 ### Frontend setup
 
 1. Navigate to the `frontend` folder:
-```
+```bash
 cd frontend
 ```
 2. Install required packages:
-```
+```bash
 npm install
 ```
 3. Start the frontend server:
-```
+```bash
 npm run dev
 ```
 
