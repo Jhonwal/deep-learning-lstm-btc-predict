@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#FFD700" stroke="#000" stroke-width="5"/>
+
+  <!-- Letter B -->
+  <path d="M60,70 Q80,50 100,70 T140,70 V130 Q120,150 100,130 T60,130 Z" fill="#0000FF"/>
+
+  <!-- Coin Details -->
+  <circle cx="100" cy="100" r="50" fill="#FFA500" stroke="#000" stroke-width="3"/>
+  <text x="100" y="110" font-size="40" fill="#FFF" text-anchor="middle" font-family="Arial, sans-serif">B</text>
+</svg>
