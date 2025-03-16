@@ -99,3 +99,5 @@ npm run dev
 2. Start the frontend development server (follow the steps in Frontend Setup).
 
 3. Open your browser and navigate to http://localhost:5173 to view the application.
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
