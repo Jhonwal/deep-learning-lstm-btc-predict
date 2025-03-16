@@ -15,6 +15,7 @@ A full-stack web application for predicting Bitcoin prices using deep learning. 
 
 ---
 
+
 ## Project Overview
 
 This project aims to predict Bitcoin prices using a **Long Short-Term Memory (LSTM)** neural network. The application allows users to:
